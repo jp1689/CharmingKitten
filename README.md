@@ -1,5 +1,5 @@
 # CharmingKitten
-Exposing CharmingKitten's malicious activity for IRGC-IO devision Counterintelligence devision (1500)
+Exposing CharmingKitten's malicious activity for IRGC-IO division Counterintelligence division (1500)
 
 Today, we begin exposing the Iranian APT affiliated with the Counterintelligence Division (Unit 1500) of the IRGC-IO, known as **Charming Kitten**.
 
