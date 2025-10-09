@@ -59,7 +59,27 @@ As we mentioned, we will begin exposing the identities of the unit's employees �
 Let's eliminate this APT once and for all!
 
 ---
+# Episode 3
+Following through on our promise, this time adding new information regarding IRGC-IO , the counterintelligence division (unit 1500) "department 40" malware activity and source code.
 
+In this episode, **you’ll find the source code of the BellaCiao malware**, which has been analyzed and published by BitDefender (https://www.bitdefender.com/en-us/blog/businessinsights/unpacking-bellaciao-a-closer-look-at-irans-latest-malware.).
+
+Technological analysis:
+1.	BellaCiao is a .NET-based dropper with two known variants:
+- The first variant drops a C# webshell that enables file upload, file download, and command execution.
+- The second variant drops a PowerShell script that establishes a reverse proxy using Plink (part of the PuTTY suite) and executes a customized version of a publicly available PowerShell webserver. (https://github.com/r00t-3xp10it/venom/blob/master/aux/Start-Webserver.ps1).
+2.	For example, look how Charming-Kitten carried out an attack on the Turkish Foreign Ministry using Bellaciao, and additional attacks using their webshells.
+3.	Additionally, a dedicated Python & Webshells Framework is included. This framework comprises dedicated webshells and Python scripts. The Python scripts act as a command management interface on the attacker’s side, while the webshells deployed on the victim’s system execute commands and relay the output back.
+4.	Details on the "TAGHEB system" intended for infecting and obtaining access to the Windows operating systems.
+4.	Furthermore, the documents include information such as: Testing of malware tools against AV products for stealthier operation (e.g., Microsoft Defender, Kaspersky, Avira, ESET, and others), Training programs, Technical details about espionage, malware tools, and Intelligence reports focusing on the Israeli entity in various ways.
+
+Intelligence analysis
+1.	682089f4bd1c3e6636e15b89e967bf4fa9d7861a_#78TPDD - The Iranian directive reflected in the campaign's activity, which includes Iranian involvement in cyber attacks and public influence platforms such as MOSESS STAFF, can also be seen.
+2.	5e98006a2cf1c15a164279558eed4a15018e34a0_بسمه تعالی - Another cover company used by the campaign is now exposed.– " JARF/ZHARF ANDISHAN TAFACOR SEFID" (ژرف انديشان تفكر سفيد ). The document is signed by the company director and an IRGC-IO official - MANOOCHEHR VOSOUGHI NIRI (منوچهر وثوقی نیری) and indicates another employee in this APT - MOHAMMAD ERFAN HAMIDI AREF (  .( محمد عرفان حمیدی عارفا
+3.	Abbas Rahrovi is leading the campaign's activity, assets, and malicious activity
+against international targets. Abbas is a "shadow man", but the campaign he has set up has now been exposed, and is very embarrassing for the Iranian leadership.
+
+---
 ⚠️ **Ongoing Exposures:**  
 Every few days, we will release more evidence about their activities, along with additional information about their personal lives.
 
