@@ -1,0 +1,32 @@
+C:\Users\summer\Documents\Visual Studio 2005\Projects\MicrosoftAgentServices\MicrosoftAgentServices\bin\Debug\MicrosoftAgentServices.exe
+C:\Users\summer\Documents\Visual Studio 2005\Projects\MicrosoftAgentServices\MicrosoftAgentServices\bin\Debug\MicrosoftAgentServices.pdb
+C:\Users\summer\Documents\Visual Studio 2005\Projects\MicrosoftAgentServices\MicrosoftAgentServices\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\summer\Documents\Visual Studio 2005\Projects\MicrosoftAgentServices\MicrosoftAgentServices\obj\Debug\MicrosoftAgentServices.exe
+C:\Users\summer\Documents\Visual Studio 2005\Projects\MicrosoftAgentServices\MicrosoftAgentServices\obj\Debug\MicrosoftAgentServices.pdb
+C:\Users\summer\Documents\Visual Studio 2005\Projects\MicrosoftAgentServices\MicrosoftAgentServices\bin\Release\WinUpdateService.exe
+C:\Users\summer\Documents\Visual Studio 2005\Projects\MicrosoftAgentServices\MicrosoftAgentServices\bin\Release\WinUpdateService.pdb
+C:\Users\summer\Documents\Visual Studio 2005\Projects\MicrosoftAgentServices\MicrosoftAgentServices\obj\Release\ResolveAssemblyReference.cache
+C:\Users\summer\Documents\Visual Studio 2005\Projects\MicrosoftAgentServices\MicrosoftAgentServices\obj\Release\WinUpdateService.exe
+C:\Users\summer\Documents\Visual Studio 2005\Projects\MicrosoftAgentServices\MicrosoftAgentServices\obj\Release\WinUpdateService.pdb
+C:\Users\summer\Desktop\backdoors\EDU\MicrosoftAgentServices\MicrosoftAgentServices\bin\Release\WinUpdateService.exe
+C:\Users\summer\Desktop\backdoors\EDU\MicrosoftAgentServices\MicrosoftAgentServices\bin\Release\WinUpdateService.pdb
+C:\Users\summer\Desktop\backdoors\EDU\MicrosoftAgentServices\MicrosoftAgentServices\obj\Release\ResolveAssemblyReference.cache
+C:\Users\summer\Desktop\backdoors\EDU\MicrosoftAgentServices\MicrosoftAgentServices\obj\Release\WinUpdateService.exe
+C:\Users\summer\Desktop\backdoors\EDU\MicrosoftAgentServices\MicrosoftAgentServices\obj\Release\WinUpdateService.pdb
+C:\Users\summer\Desktop\backdoors\SharePoint\MicrosoftAgentServices\MicrosoftAgentServices\bin\Release\WinUpdateService.exe
+C:\Users\summer\Desktop\backdoors\SharePoint\MicrosoftAgentServices\MicrosoftAgentServices\bin\Release\WinUpdateService.pdb
+C:\Users\summer\Desktop\backdoors\SharePoint\MicrosoftAgentServices\MicrosoftAgentServices\obj\Release\ResolveAssemblyReference.cache
+C:\Users\summer\Desktop\backdoors\SharePoint\MicrosoftAgentServices\MicrosoftAgentServices\obj\Release\WinUpdateService.exe
+C:\Users\summer\Desktop\backdoors\SharePoint\MicrosoftAgentServices\MicrosoftAgentServices\obj\Release\WinUpdateService.pdb
+C:\Users\summer\Desktop\Windows-Desktop\backdoors\SharePoint\MicrosoftAgentServices\MicrosoftAgentServices\bin\Release\WinUpdateService.exe
+C:\Users\summer\Desktop\Windows-Desktop\backdoors\SharePoint\MicrosoftAgentServices\MicrosoftAgentServices\bin\Release\WinUpdateService.pdb
+C:\Users\summer\Desktop\Windows-Desktop\backdoors\SharePoint\MicrosoftAgentServices\MicrosoftAgentServices\obj\Release\ResolveAssemblyReference.cache
+C:\Users\summer\Desktop\Windows-Desktop\backdoors\SharePoint\MicrosoftAgentServices\MicrosoftAgentServices\obj\Release\WinUpdateService.exe
+C:\Users\summer\Desktop\Windows-Desktop\backdoors\SharePoint\MicrosoftAgentServices\MicrosoftAgentServices\obj\Release\WinUpdateService.pdb
+C:\Users\summer\Desktop\Windows-Desktop\backdoors\Tax\MicrosoftAgentServices\MicrosoftAgentServices\bin\Release\WinUpdateService.exe
+C:\Users\summer\Desktop\Windows-Desktop\backdoors\Tax\MicrosoftAgentServices\MicrosoftAgentServices\bin\Release\WinUpdateService.pdb
+C:\Users\summer\Desktop\Windows-Desktop\backdoors\Tax\MicrosoftAgentServices\MicrosoftAgentServices\obj\Release\ResolveAssemblyReference.cache
+C:\Users\summer\Desktop\Windows-Desktop\backdoors\Tax\MicrosoftAgentServices\MicrosoftAgentServices\obj\Release\WinUpdateService.exe
+C:\Users\summer\Desktop\Windows-Desktop\backdoors\Tax\MicrosoftAgentServices\MicrosoftAgentServices\obj\Release\WinUpdateService.pdb
+C:\Users\summer\Desktop\Windows-Desktop\backdoors\Tax-Vpn-172\MicrosoftAgentServices\MicrosoftAgentServices\obj\Release\WinUpdateService.exe
+C:\Users\summer\Desktop\Windows-Desktop\backdoors\Tax-Vpn-172\MicrosoftAgentServices\MicrosoftAgentServices\obj\Release\WinUpdateService.pdb

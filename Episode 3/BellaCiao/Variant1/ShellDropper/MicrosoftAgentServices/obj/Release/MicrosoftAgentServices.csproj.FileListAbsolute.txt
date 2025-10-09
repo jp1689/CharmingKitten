@@ -1,0 +1,54 @@
+C:\Users\soso_win\Desktop\Tax-Vpn-172\MicrosoftAgentServices\MicrosoftAgentServices\bin\Release\WinUpdateService.exe
+C:\Users\soso_win\Desktop\Tax-Vpn-172\MicrosoftAgentServices\MicrosoftAgentServices\bin\Release\WinUpdateService.pdb
+C:\Users\soso_win\Desktop\Tax-Vpn-172\MicrosoftAgentServices\MicrosoftAgentServices\obj\Release\MicrosoftAgentServices.csprojAssemblyReference.cache
+C:\Users\soso_win\Desktop\Tax-Vpn-172\MicrosoftAgentServices\MicrosoftAgentServices\obj\Release\MicrosoftAgentServices.csproj.CoreCompileInputs.cache
+C:\Users\soso_win\Desktop\Tax-Vpn-172\MicrosoftAgentServices\MicrosoftAgentServices\obj\Release\WinUpdateService.exe
+C:\Users\soso_win\Desktop\Tax-Vpn-172\MicrosoftAgentServices\MicrosoftAgentServices\obj\Release\WinUpdateService.pdb
+C:\Users\soso_win\Desktop\Tax\Customers\172.17.3.50-DC\backdoor\MicrosoftAgentServices\MicrosoftAgentServices\bin\Release\WinUpdateService.exe
+C:\Users\soso_win\Desktop\Tax\Customers\172.17.3.50-DC\backdoor\MicrosoftAgentServices\MicrosoftAgentServices\bin\Release\WinUpdateService.pdb
+C:\Users\soso_win\Desktop\Tax\Customers\172.17.3.50-DC\backdoor\MicrosoftAgentServices\MicrosoftAgentServices\obj\Release\MicrosoftAgentServices.csprojAssemblyReference.cache
+C:\Users\soso_win\Desktop\Tax\Customers\172.17.3.50-DC\backdoor\MicrosoftAgentServices\MicrosoftAgentServices\obj\Release\MicrosoftAgentServices.csproj.CoreCompileInputs.cache
+C:\Users\soso_win\Desktop\Tax\Customers\172.17.3.50-DC\backdoor\MicrosoftAgentServices\MicrosoftAgentServices\obj\Release\WinUpdateService.exe
+C:\Users\soso_win\Desktop\Tax\Customers\172.17.3.50-DC\backdoor\MicrosoftAgentServices\MicrosoftAgentServices\obj\Release\WinUpdateService.pdb
+C:\Users\soso_win\Desktop\Tax\Customers\172.17.8.2-SQL\backdoor\MicrosoftAgentServices\MicrosoftAgentServices\bin\Release\WinUpdateService.exe
+C:\Users\soso_win\Desktop\Tax\Customers\172.17.8.2-SQL\backdoor\MicrosoftAgentServices\MicrosoftAgentServices\bin\Release\WinUpdateService.pdb
+C:\Users\soso_win\Desktop\Tax\Customers\172.17.8.2-SQL\backdoor\MicrosoftAgentServices\MicrosoftAgentServices\obj\Release\MicrosoftAgentServices.csprojAssemblyReference.cache
+C:\Users\soso_win\Desktop\Tax\Customers\172.17.8.2-SQL\backdoor\MicrosoftAgentServices\MicrosoftAgentServices\obj\Release\MicrosoftAgentServices.csproj.CoreCompileInputs.cache
+C:\Users\soso_win\Desktop\Tax\Customers\172.17.8.2-SQL\backdoor\MicrosoftAgentServices\MicrosoftAgentServices\obj\Release\WinUpdateService.exe
+C:\Users\soso_win\Desktop\Tax\Customers\172.17.8.2-SQL\backdoor\MicrosoftAgentServices\MicrosoftAgentServices\obj\Release\WinUpdateService.pdb
+C:\Users\soso_win\Desktop\Tax\Customers\172.17.3.66-shamel\backdoor\MicrosoftAgentServices\MicrosoftAgentServices\bin\Release\WinUpdateService.exe
+C:\Users\soso_win\Desktop\Tax\Customers\172.17.3.66-shamel\backdoor\MicrosoftAgentServices\MicrosoftAgentServices\bin\Release\WinUpdateService.pdb
+C:\Users\soso_win\Desktop\Tax\Customers\172.17.3.66-shamel\backdoor\MicrosoftAgentServices\MicrosoftAgentServices\obj\Release\MicrosoftAgentServices.csprojAssemblyReference.cache
+C:\Users\soso_win\Desktop\Tax\Customers\172.17.3.66-shamel\backdoor\MicrosoftAgentServices\MicrosoftAgentServices\obj\Release\MicrosoftAgentServices.csproj.CoreCompileInputs.cache
+C:\Users\soso_win\Desktop\Tax\Customers\172.17.3.66-shamel\backdoor\MicrosoftAgentServices\MicrosoftAgentServices\obj\Release\WinUpdateService.exe
+C:\Users\soso_win\Desktop\Tax\Customers\172.17.3.66-shamel\backdoor\MicrosoftAgentServices\MicrosoftAgentServices\obj\Release\WinUpdateService.pdb
+E:\targets\IL\2112\backdoor\MicrosoftAgentServices\MicrosoftAgentServices\bin\Release\WinUpdateService.exe
+E:\targets\IL\2112\backdoor\MicrosoftAgentServices\MicrosoftAgentServices\bin\Release\WinUpdateService.pdb
+E:\targets\IL\2112\backdoor\MicrosoftAgentServices\MicrosoftAgentServices\obj\Release\MicrosoftAgentServices.csprojAssemblyReference.cache
+E:\targets\IL\2112\backdoor\MicrosoftAgentServices\MicrosoftAgentServices\obj\Release\MicrosoftAgentServices.csproj.CoreCompileInputs.cache
+E:\targets\IL\2112\backdoor\MicrosoftAgentServices\MicrosoftAgentServices\obj\Release\WinUpdateService.exe
+E:\targets\IL\2112\backdoor\MicrosoftAgentServices\MicrosoftAgentServices\obj\Release\WinUpdateService.pdb
+E:\targets\ae\dubai-police\backdoor\MicrosoftAgentServices\MicrosoftAgentServices\bin\Release\WinUpdateService.exe
+E:\targets\ae\dubai-police\backdoor\MicrosoftAgentServices\MicrosoftAgentServices\bin\Release\WinUpdateService.pdb
+E:\targets\ae\dubai-police\backdoor\MicrosoftAgentServices\MicrosoftAgentServices\obj\Release\MicrosoftAgentServices.csprojAssemblyReference.cache
+E:\targets\ae\dubai-police\backdoor\MicrosoftAgentServices\MicrosoftAgentServices\obj\Release\MicrosoftAgentServices.csproj.CoreCompileInputs.cache
+E:\targets\ae\dubai-police\backdoor\MicrosoftAgentServices\MicrosoftAgentServices\obj\Release\WinUpdateService.exe
+E:\targets\ae\dubai-police\backdoor\MicrosoftAgentServices\MicrosoftAgentServices\obj\Release\WinUpdateService.pdb
+E:\targets\ae\dubai-police\backdoor\ShellDropper\MicrosoftAgentServices\bin\Release\WinUpdateService.exe
+E:\targets\ae\dubai-police\backdoor\ShellDropper\MicrosoftAgentServices\bin\Release\WinUpdateService.pdb
+E:\targets\ae\dubai-police\backdoor\ShellDropper\MicrosoftAgentServices\obj\Release\MicrosoftAgentServices.csprojAssemblyReference.cache
+E:\targets\ae\dubai-police\backdoor\ShellDropper\MicrosoftAgentServices\obj\Release\MicrosoftAgentServices.csproj.CoreCompileInputs.cache
+E:\targets\ae\dubai-police\backdoor\ShellDropper\MicrosoftAgentServices\obj\Release\WinUpdateService.exe
+E:\targets\ae\dubai-police\backdoor\ShellDropper\MicrosoftAgentServices\obj\Release\WinUpdateService.pdb
+F:\targets\EG\TE\backdoor\ShellDropper\MicrosoftAgentServices\bin\Release\WinUpdateService.exe
+F:\targets\EG\TE\backdoor\ShellDropper\MicrosoftAgentServices\bin\Release\WinUpdateService.pdb
+F:\targets\EG\TE\backdoor\ShellDropper\MicrosoftAgentServices\obj\Release\MicrosoftAgentServices.csprojAssemblyReference.cache
+F:\targets\EG\TE\backdoor\ShellDropper\MicrosoftAgentServices\obj\Release\MicrosoftAgentServices.csproj.CoreCompileInputs.cache
+F:\targets\EG\TE\backdoor\ShellDropper\MicrosoftAgentServices\obj\Release\WinUpdateService.exe
+F:\targets\EG\TE\backdoor\ShellDropper\MicrosoftAgentServices\obj\Release\WinUpdateService.pdb
+Z:\BellaCiao\More Targets\At(Austria)\213.47.81.107(gappen.at)END\backdoor\ShellDropper\MicrosoftAgentServices\bin\Release\Exchange Agent Diagnostic Services.exe.config
+Z:\BellaCiao\More Targets\At(Austria)\213.47.81.107(gappen.at)END\backdoor\ShellDropper\MicrosoftAgentServices\bin\Release\Exchange Agent Diagnostic Services.exe
+Z:\BellaCiao\More Targets\At(Austria)\213.47.81.107(gappen.at)END\backdoor\ShellDropper\MicrosoftAgentServices\bin\Release\Exchange Agent Diagnostic Services.pdb
+Z:\BellaCiao\More Targets\At(Austria)\213.47.81.107(gappen.at)END\backdoor\ShellDropper\MicrosoftAgentServices\obj\Release\MicrosoftAgentServices.csproj.CoreCompileInputs.cache
+Z:\BellaCiao\More Targets\At(Austria)\213.47.81.107(gappen.at)END\backdoor\ShellDropper\MicrosoftAgentServices\obj\Release\Exchange Agent Diagnostic Services.exe
+Z:\BellaCiao\More Targets\At(Austria)\213.47.81.107(gappen.at)END\backdoor\ShellDropper\MicrosoftAgentServices\obj\Release\Exchange Agent Diagnostic Services.pdb

